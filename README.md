@@ -37,7 +37,8 @@ In order to connect we'll need to generate a token and link to your metrics data
 3. Follow the instructions below to generate a token with permissions to access the API:
    [REST API endpoints for Copilot metrics - GitHub Enterprise Cloud Docs](https://docs.github.com/en/enterprise-cloud@latest/rest/copilot/copilot-metrics)
 >**IMPORTANT: Do not share this token and ensure you follow you organizations security policies.**
-4. The file contains the following data sources, descriptions are inlcuded below.
+4. Ensure Copilot Metrics API access is enabled for your [organization](https://docs.github.com/en/enterprise-cloud@latest/copilot/managing-copilot/managing-github-copilot-in-your-organization/managing-policies-for-copilot-in-your-organization) or [enterprise](https://docs.github.com/en/enterprise-cloud@latest/copilot/managing-copilot/managing-copilot-for-your-enterprise/managing-policies-and-features-for-copilot-in-your-enterprise#configuring-policies-for-github-copilot).
+5. The file contains the following data sources, descriptions are inlcuded below.
 
     | Name                               | Description                                                   |
     | :--------------------------------- | :------------------------------------------------------------ |
